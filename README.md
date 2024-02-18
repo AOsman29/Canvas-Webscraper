@@ -4,10 +4,8 @@ Built a super simple to use web scraper using Python, Homebrew and BeautifulSoup
 ## Installation
 Installation Guide for BeautifulSoup Script
 This guide will help you set up and run the BeautifulSoup script to extract text from HTML elements with the class "caption-content".
-
 Prerequisites
 Before you begin, ensure you have the following installed on your computer:
-
 Python 3
 pip (Python package installer)
 Installation Steps
